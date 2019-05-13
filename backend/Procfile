@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mbu_osa_3288.wsgi:application
